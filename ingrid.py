@@ -228,5 +228,3 @@ if sides_lottie:
     """
     components.html(sides_html, height=10)
 
-# final small footnote
-st.markdown("<div style='text-align:center;margin-top:14px;color:#111;font-size:13px'>Astuce: modifie le message et reclique sur le bouton pour rejouer les animations.</div>", unsafe_allow_html=True)
